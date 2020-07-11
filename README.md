@@ -3,20 +3,19 @@ I'm Julio, I'm a generalist Software Engineer, passionate about technology.
 +7 years of experience in Fullstack Software Development, building applications for the cloud in the Education and Fintech industry. I code in Java, Scala, Python, Javascript and Rust.
 Also have Devops experience using AWS and Docker.
 *Bonus:* Some Machine learning experience with python using Tensorflow and Keras.
-<table>
-<td>
-<b>Follow me on:</b>
+
+#### Follow me on:
 
 <table>
     <tr>
         <td>
-            <a href="https://twitter.com/nemesiscodex">
-                <img src="https://user-images.githubusercontent.com/3976562/87174094-b4163200-c2a4-11ea-9c58-2063d56c0f7b.png" width="25"/>
+            <a href="https://www.youtube.com/c/GenusvProgramming?sub_confirmation=1">
+                <img src="https://user-images.githubusercontent.com/3976562/87174117-bd070380-c2a4-11ea-9c3d-afc54bf9c01b.png" width="25"/>
             </a>
         </td>
         <td>
-            <a href="https://twitter.com/nemesiscodex">
-                <b>@nemesiscodex</b> Personal twitter
+            <a href="https://www.youtube.com/c/GenusvProgramming?sub_confirmation=1">
+                <b>Genus-V Programming</b> YT Channel
             </a>
         </td>
     </tr>
@@ -34,19 +33,22 @@ Also have Devops experience using AWS and Docker.
     </tr>
     <tr>
         <td>
-            <a href="https://www.youtube.com/c/GenusvProgramming?sub_confirmation=1">
-                <img src="https://user-images.githubusercontent.com/3976562/87174117-bd070380-c2a4-11ea-9c3d-afc54bf9c01b.png" width="25"/>
+            <a href="https://twitter.com/nemesiscodex">
+                <img src="https://user-images.githubusercontent.com/3976562/87174094-b4163200-c2a4-11ea-9c58-2063d56c0f7b.png" width="25"/>
             </a>
         </td>
         <td>
-            <a href="https://www.youtube.com/c/GenusvProgramming?sub_confirmation=1">
-                <b>Genus-V Programming</b> YT Channel
+            <a href="https://twitter.com/nemesiscodex">
+                <b>@nemesiscodex</b> Personal twitter
             </a>
         </td>
     </tr>
 </table>
 
-<b>Support me 💓 on: </b>
+<details>
+<summary>
+    <b>Support me 💓 on</b>
+</summary>
 <table>
     <tr>
         <td>
@@ -61,10 +63,7 @@ Also have Devops experience using AWS and Docker.
         </td>
     </tr>
 </table>
-</td>
-<td>
 
-<b>Donations:</b>
 <table>
     <tr>
         <td>
@@ -94,5 +93,4 @@ Also have Devops experience using AWS and Docker.
         </td>
     </tr>
 </table>
-</td>
-</table>
+</details>
