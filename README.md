@@ -15,7 +15,7 @@ Also have Devops experience using AWS and Docker.
 <br>
 
 [![Patreon](https://img.shields.io/badge/Patreon-Nemesiscodex-f96854?style=for-the-badge&logo=Patreon&logoColor=white)](https://www.patreon.com/bePatron?u=14459306)
-[![Ko-FI](https://img.shields.io/badge/KO%E2%80%93FI-Buy%20ME%20a%20Coffee-F16061?style=for-the-badge&logo=Ko-fi&logoColor=white)](https://brave.com/nem335)
+[![Ko-FI](https://img.shields.io/badge/KO%E2%80%93FI-Buy%20ME%20a%20Coffee-F16061?style=for-the-badge&logo=Ko-fi&logoColor=white)](https://ko-fi.com/nemesiscodex)
 [![Brave Rewards](https://img.shields.io/badge/Brave-Rewards-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/nem335)
 <table>
     <tr>
