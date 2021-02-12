@@ -66,11 +66,5 @@ Also have Devops experience using AWS and Docker.
 </table>
 </details>
 
-<details>
-<summary>
-    <b>Stats<b>
-</summary>
-<br>
-
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=nemesiscodex&show_icons=true)
-</details>
+#### Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=nemesiscodex&theme=nord&rank=SECRET,SSS,SS,S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
