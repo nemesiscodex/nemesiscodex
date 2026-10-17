@@ -5,6 +5,8 @@ Also have Devops experience using AWS and Docker.
 *Bonus:* Some Machine learning experience with python using Tensorflow and Keras.
 
 ## Recent Projects
+🎭 [me-read](https://github.com/nemesiscodex/me-read) - Read any EPUB as a radio play. It gives the narrator and every character their own voice, then reads the book to you while you follow the text. Claude or Codex works out who says each line and how, and a voice model running locally on your Mac speaks every line in that character's voice.
+
 🃏 [palatro](https://github.com/nemesiscodex/palatro) - A planning poker app for scrum teams that want fast, low-friction estimation sessions. Teams can create a room, share a link, vote in real time, and run story estimation without forcing everyone to create an account.
 
 
